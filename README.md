@@ -1,7 +1,3 @@
-Absolutely! Since **Whisper Vault** is one of your capstone projects, its README should look professional and recruiter-friendly—not like an assignment report.
-
-Copy and replace your current `README.md` with the following.
-
 ---
 
 # WHISPER VAULT
@@ -242,4 +238,3 @@ Whisper-Vault/
 └── .gitignore
 ```
 
-This README will give recruiters the impression of a well-organized, production-style repository rather than just a college submission. Once this is in place, I'd consider **Whisper Vault** complete as well. 🚀
