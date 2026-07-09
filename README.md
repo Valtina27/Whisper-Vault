@@ -219,22 +219,4 @@ This project was developed for educational and academic purposes as part of the 
 
 ---
 
-### One small suggestion
-
-I noticed in your screenshot that your folder is named **`document`**. For a cleaner, more professional repository, I recommend renaming it to **`docs`**, since that's the standard naming convention used in most GitHub projects.
-
-Your final structure would then look like this:
-
-```
-Whisper-Vault/
-│
-├── client/
-├── server/
-├── assets/
-│   └── screenshots/
-├── docs/
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
